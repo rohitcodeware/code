@@ -1,0 +1,64 @@
+#confirmOverlay{
+	width:100%;
+	height:100%;
+	position:fixed;
+	top:0;
+	left:0;
+	rgba(11,11,11,0.2);
+	z-index:100000;
+}
+
+#confirmBox{
+	background: #ede9e3;
+	width: 360px;
+	position: fixed;
+	left: 38%;
+	top: 40%;
+	margin: -130px 0 0 -230px;
+	border: 2px groove #FF5500;
+}
+
+#confirmBox h1,
+#confirmBox p{
+	font:12px/1 'Cuprum','Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	background:#FE5400;
+	padding: 5px 10px;
+	text-align:center;
+	color:#fff !important;
+}
+
+#confirmBox h1{
+	letter-spacing:0.3px;
+	color:#888;
+	
+}
+
+#confirmBox p{
+	background:none;
+	font-size:16px;
+	line-height:1.4;
+	padding-top: 25px;
+}
+
+#confirmButtons{
+	padding:15px 0 25px;
+	text-align:center;
+}
+
+#confirmBox .button{
+	display:inline-block;
+	background:#fff;
+	color:#000;
+	position:relative;
+	bottom:16px;
+	height: 18px;
+	font:12px 'Cuprum','Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	margin-right: 100px;
+	padding: 3px 35px 0 35px;
+	text-decoration:none;
+	border:1px solid #ccc;
+	border-radius:5px;
+}
+
+#confirmBox .button:last-child{	margin-right:0;}
+

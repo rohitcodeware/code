@@ -1,0 +1,100 @@
+.graphite .accordion{font: bold 14px Arial, sans-serif; border-top: 1px solid #111; border-right: 1px solid #111; border-left: 1px solid #111; }
+.graphite .accordion, .graphite .accordion li {margin: 0; padding: 0; border: none;}
+/*.graphite .accordion a {padding: 10px 10px 10px 50px; background: #0C0C0C url(images/bg_black.png) repeat-x 0 -1px; text-decoration:none; display: block; color: #ddd; border-bottom: 1px solid #222; border-top: 1px solid #777; position: relative;}
+*/
+.graphite .accordion a {padding: 13px 13px 13px 13px; background-color:#2B2B2B; text-decoration:none; display: block; color: #ddd;border-radius:10px; /*border-bottom: 1px solid #222; border-top: 1px solid #777;*/ position: relative; }
+
+.graphite .accordion ul a {/*background: #424549;*/}
+
+.graphite .accordion a.dcjq-parent, .graphite .accordion a.dcjq-parent:hover {/*background: #0C0C0C url(images/bg_black.png) repeat-x 0 -1px;*/}
+.graphite .accordion a.dcjq-parent.active { color:#FE5301;border-radius:10px 10px 0 0;}
+
+.graphite .accordion a .dcjq-icon {position: absolute; top: 50%; left: 90%; width: 34px; margin-top: -17px; height: 34px; background:url(../../images/up_arrow.png) no-repeat 0 center;}
+.graphite .accordion a.dcjq-parent.active .dcjq-icon {background:url(../../images/down_arrow.png) no-repeat 0 center;}
+.graphite .accordion a:hover { /*color: #FE5502;*/}
+.graphite .accordion a:active{}
+
+.text_color{
+	color:#FE5301;
+}
+.sub_menu{
+	font-size:12px;
+}
+.closed_arrow{
+	background-image:url(../../images/edit_small.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	height:10px; width:20px;
+	display:inline-block;
+}
+.open_arrow{
+	background-image:url(../../images/edit_small.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	height:10px; width:20px;
+	display:inline-block;
+}
+.main_menu{
+	 background-color:#2B2B2B; text-decoration:none; display: block; color: #ddd; position: relative;
+	 padding-bottom:20px;
+	 padding-top:10px;
+	 font-size:13px;
+}
+.main_menu div{
+	margin-left:5px;
+}
+
+.main_menu_elements{
+	display:none;
+}
+.main_menu_element{
+	padding-bottom:5px;
+	padding-top:5px;
+	left:20px;
+	/*position:relative;
+	background-image:url(../../images/edit_small.png);
+	background-repeat:no-repeat;
+	background-position:-20px;*/
+}
+.main_menu_element a{
+	display:inline-block !important; padding:0px !important;
+	color:#515151 !important;
+}
+.main_menu_title{
+	color:#515151;
+	cursor:pointer;}
+
+
+.ancher{
+	color:#515151;
+	cursor:pointer;
+	position:relative;
+	top:-3px;
+	
+}
+.ancher:hover{
+	color:#fff;
+	cursor:pointer;
+	
+}
+.edit_button{
+	background-image:url(../../images/edit_small.png);
+	background-repeat:no-repeat;
+	background-position:left;
+	height:10px; width:20px;
+	display:inline-block;
+	padding:0px;
+}
+.ancher{
+	position:relative;
+	left:5px;
+}
+.collection_edit{
+  vertical-align: top !important;
+}
+
+.collection_name{
+	display: inline-block !important;
+	width:89%;
+	vertical-align:top;
+}

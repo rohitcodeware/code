@@ -1,0 +1,76 @@
+
+
+.example {
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+ background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #EEEEEE;
+    border-radius: 5px 5px 5px 5px;
+    height: 160px;
+    margin: 10px auto;
+    position: relative;
+    width: 95%;
+}
+
+#main_content {
+height: 100%;
+left: 3%;
+overflow: auto;
+position: absolute;
+top: 5%;
+width: 96%;
+top: 3px;
+}
+
+.ssb_down {
+background:transparent url(../images/icon-arrow-down.png);
+bottom:0;
+cursor:pointer;
+position:absolute;
+right:0;
+display:none !important;
+}
+
+.ssb_sb {
+background: transparent url(../images/middle.png);
+cursor: pointer;
+position: absolute;
+right: 0;
+
+}
+
+.ssb_sb_down {
+background:transparent url(../images/middrag.png);
+
+}
+
+.ssb_sb_over {
+background:transparent url(../images/midhover.png);
+}
+
+.ssb_st {
+	border-radius:10px;
+/*background:transparent url(../images/back.png);*/
+background-color:#eee;
+cursor:pointer;
+height:96%;
+position:absolute;
+right:0;
+top:0;
+}
+
+.ssb_up {
+background:transparent url(../images/icon-arrow-up.png);
+cursor:pointer;
+position:absolute;
+right:0;
+top:0;
+display:none;
+}
+
+.parent {
+font-family:verdana;
+height:100%;
+padding:10px;
+position:relative;
+}
