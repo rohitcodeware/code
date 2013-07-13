@@ -25,8 +25,8 @@
                                 <div style="border-radius:10px;">
                                 <li class=""><!--Recent activity tab open-->
                                 	<a href="#" class="graphite_heading">Recent Activity</a>
-                                    <ul>
-                                            <li>
+                                    <ul style="font-size:12px;width:98%;">
+                                            <li class="">
                                             <a href="#" style="border-radius:0px;width:89%;">Kevin An is now connected to Allister <span class="text_color">Esguerra</span></a>
                                             <a href="#" style="border-radius:0px;width:89%;">Kevin An has joined <span class="text_color">internal_grp</span></a>
                                             <a href="#" style="border-radius:0 0 10px 10px;width:89%;">Tuan Ma uploaded smalllogo and <span class="text_color">splash-620*300</span> tothre <span class="text_color">internal_grp</span> group.</a>
@@ -36,7 +36,7 @@
                                  </div><br>
                                                     
                                 <li><!--Group tab open-->
-                                	<a  href="#" style="font-size:16px;border-radius:10px 10px 0px 0px; width:87%;"><span onclick="window.location='yourGroup.php'">Group</span></a>
+                                	<a  href="#" class="graphite_heading_other"><span onclick="window.location='yourGroup.php'">Group</span></a>
                                 
                                 <ul style="" class="sub_menu">
                                 <div class="main_menu">
@@ -52,7 +52,7 @@
                                 </li><!--Group tab closed-->
                                 <div id="edit_your_group"><a href="createGroup.php" style=""><div class="edit_img_collection"></div>&nbsp;CREATE GROUP</a></div><br />
                                 <li><!--Collection tab open-->
-                                	<a href="#" style="font-size:16px;border-radius:10px 10px 0 0 ;width:87%;"><span onclick="window.location='PnsCollectionPage.php'">Collection</span></a>
+                                	<a href="#" class="graphite_heading_other"><span onclick="window.location='PnsCollectionPage.php'">Collection</span></a>
                                 
                                 <ul style="" class="sub_menu">
                                    <div class="main_menu">
