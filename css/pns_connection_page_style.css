@@ -2452,7 +2452,16 @@ top: -3px;
 	width:75px;
 	
 }
-
+.my_class img:hover {
+border-radius: 50%;
+width: 70px;
+border:3px solid #FF5500 !important;
+}
+.my_class img:active {
+border-radius: 50%;
+width: 70px;
+border:3px solid #FF5500 !important;
+}
 .roundrr_center {
 
 }

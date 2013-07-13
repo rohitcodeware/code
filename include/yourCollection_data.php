@@ -12,52 +12,52 @@
 		
                                                                         <li class='item'>	
                                                                         <div class='my_class'> 
-                                                                                <img alt="Al Yankovic" src="images/img3_thumb.jpg"></img> 
+                                                                                <a href="plugEdit.php"><img alt="Al Yankovic" src="images/img3_thumb.jpg"></img></a> 
                                                                         </div>	
                                                                         </li>
 
                                                                         <li class='item'>	
                                                                         <div class='my_class'>  
-                                                                        <img  alt="Taylor Swift" src="images/img4_thumb.jpg"></img>
+                                                                        	    <a href="plugEdit.php"><img  alt="Taylor Swift" src="images/img4_thumb.jpg"></img></a> 
                                                                         </div>
                                                                         </li>
 			
 
                                                                        <li class='item'>	
                                                                        <div class='my_class'>  
-                                                                       <img alt="Dandy Warhols" src="images/img5_thumb.jpg"></img>
+                                                                       			 <a href="plugEdit.php"><img alt="Dandy Warhols" src="images/img5_thumb.jpg"></img></a> 
                                                                        </div>	
                                                                        </li>
 				
                                                                         <li class='item'>	
                                                                         <div class='my_class'>  
-                                                                        <img alt="Lenny Kravitz" src="images/img3_thumb.jpg"></img>
+                                                                        		 <a href="plugEdit.php"><img alt="Lenny Kravitz" src="images/img3_thumb.jpg"></img></a> 
                                                                         </div>	
                                                                         </li>
 
                                                                         <li class='item'>	
                                                                         <div class='my_class'>  
-                                                                        <img alt="Katy Perry" src="images/img4_thumb.jpg"></img>
+                                                                        		 <a href="plugEdit.php"><img alt="Katy Perry" src="images/img4_thumb.jpg"></img></a> 
                                                                         </div>
                                                                         </li>
 			
 			
                                                                         <li class='item'>	
                                                                         <div  class='my_class'>  
-                                                                        <img alt="Ke$ha"src="images/img5_thumb.jpg"></img>  
+                                                                        		 <a href="plugEdit.php"><img alt="Ke$ha"src="images/img5_thumb.jpg"></img>  </a> 
                                                                         </div>	
                                                                         </li>
 
 			
                                                                         <li class='item'>	
                                                                         <div class='my_class'>  
-                                                                        <img alt="Eminem" src="images/img3_thumb.jpg"></img>
+                                                                        		 <a href="plugEdit.php"><img alt="Eminem" src="images/img3_thumb.jpg"></img></a> 
                                                                         </div>	
                                                                         </li>
 
                                                                         <li class='item'>	
                                                                         <div class='my_class'>  
-                                                                        <img  alt="Lady Gaga" src="images/img4_thumb.jpg"></img>
+                                                                        		 <a href="plugEdit.php"><img  alt="Lady Gaga" src="images/img4_thumb.jpg"></img></a> 
                                                                         </div>
                                                                         </li>
                                                                         
@@ -80,52 +80,52 @@
 		
                                                                         <li class='item'>	
                                                                         <div class='my_class'> 
-                                                                                <img alt="Al Yankovic" src="images/img3_thumb.jpg"></img> 
+                                                                                <a href="plugEdit.php"><img alt="Al Yankovic" src="images/img3_thumb.jpg"></img></a> 
                                                                         </div>	
                                                                         </li>
 
                                                                         <li class='item'>	
                                                                         <div class='my_class'>  
-                                                                        <img  alt="Taylor Swift" src="images/img4_thumb.jpg"></img>
+                                                                        	    <a href="plugEdit.php"><img  alt="Taylor Swift" src="images/img4_thumb.jpg"></img></a> 
                                                                         </div>
                                                                         </li>
 			
 
                                                                        <li class='item'>	
                                                                        <div class='my_class'>  
-                                                                       <img alt="Dandy Warhols" src="images/img5_thumb.jpg"></img>
+                                                                       			 <a href="plugEdit.php"><img alt="Dandy Warhols" src="images/img5_thumb.jpg"></img></a> 
                                                                        </div>	
                                                                        </li>
 				
                                                                         <li class='item'>	
                                                                         <div class='my_class'>  
-                                                                        <img alt="Lenny Kravitz" src="images/img3_thumb.jpg"></img>
+                                                                        		 <a href="plugEdit.php"><img alt="Lenny Kravitz" src="images/img3_thumb.jpg"></img></a> 
                                                                         </div>	
                                                                         </li>
 
                                                                         <li class='item'>	
                                                                         <div class='my_class'>  
-                                                                        <img alt="Katy Perry" src="images/img4_thumb.jpg"></img>
+                                                                        		 <a href="plugEdit.php"><img alt="Katy Perry" src="images/img4_thumb.jpg"></img></a> 
                                                                         </div>
                                                                         </li>
 			
 			
                                                                         <li class='item'>	
                                                                         <div  class='my_class'>  
-                                                                        <img alt="Ke$ha"src="images/img5_thumb.jpg"></img>  
+                                                                        		 <a href="plugEdit.php"><img alt="Ke$ha"src="images/img5_thumb.jpg"></img>  </a> 
                                                                         </div>	
                                                                         </li>
 
 			
                                                                         <li class='item'>	
                                                                         <div class='my_class'>  
-                                                                        <img alt="Eminem" src="images/img3_thumb.jpg"></img>
+                                                                        		 <a href="plugEdit.php"><img alt="Eminem" src="images/img3_thumb.jpg"></img></a> 
                                                                         </div>	
                                                                         </li>
 
                                                                         <li class='item'>	
                                                                         <div class='my_class'>  
-                                                                        <img  alt="Lady Gaga" src="images/img4_thumb.jpg"></img>
+                                                                        		 <a href="plugEdit.php"><img  alt="Lady Gaga" src="images/img4_thumb.jpg"></img></a> 
                                                                         </div>
                                                                         </li>
 																</ul>
@@ -144,52 +144,52 @@
 		
                                                                         <li class='item'>	
                                                                         <div class='my_class'> 
-                                                                                <img alt="Al Yankovic" src="images/img3_thumb.jpg"></img> 
+                                                                                <a href="plugEdit.php"><img alt="Al Yankovic" src="images/img3_thumb.jpg"></img></a> 
                                                                         </div>	
                                                                         </li>
 
                                                                         <li class='item'>	
                                                                         <div class='my_class'>  
-                                                                        <img  alt="Taylor Swift" src="images/img4_thumb.jpg"></img>
+                                                                        	    <a href="plugEdit.php"><img  alt="Taylor Swift" src="images/img4_thumb.jpg"></img></a> 
                                                                         </div>
                                                                         </li>
 			
 
                                                                        <li class='item'>	
                                                                        <div class='my_class'>  
-                                                                       <img alt="Dandy Warhols" src="images/img5_thumb.jpg"></img>
+                                                                       			 <a href="plugEdit.php"><img alt="Dandy Warhols" src="images/img5_thumb.jpg"></img></a> 
                                                                        </div>	
                                                                        </li>
 				
                                                                         <li class='item'>	
                                                                         <div class='my_class'>  
-                                                                        <img alt="Lenny Kravitz" src="images/img3_thumb.jpg"></img>
+                                                                        		 <a href="plugEdit.php"><img alt="Lenny Kravitz" src="images/img3_thumb.jpg"></img></a> 
                                                                         </div>	
                                                                         </li>
 
                                                                         <li class='item'>	
                                                                         <div class='my_class'>  
-                                                                        <img alt="Katy Perry" src="images/img4_thumb.jpg"></img>
+                                                                        		 <a href="plugEdit.php"><img alt="Katy Perry" src="images/img4_thumb.jpg"></img></a> 
                                                                         </div>
                                                                         </li>
 			
 			
                                                                         <li class='item'>	
                                                                         <div  class='my_class'>  
-                                                                        <img alt="Ke$ha"src="images/img5_thumb.jpg"></img>  
+                                                                        		 <a href="plugEdit.php"><img alt="Ke$ha"src="images/img5_thumb.jpg"></img>  </a> 
                                                                         </div>	
                                                                         </li>
 
 			
                                                                         <li class='item'>	
                                                                         <div class='my_class'>  
-                                                                        <img alt="Eminem" src="images/img3_thumb.jpg"></img>
+                                                                        		 <a href="plugEdit.php"><img alt="Eminem" src="images/img3_thumb.jpg"></img></a> 
                                                                         </div>	
                                                                         </li>
 
                                                                         <li class='item'>	
                                                                         <div class='my_class'>  
-                                                                        <img  alt="Lady Gaga" src="images/img4_thumb.jpg"></img>
+                                                                        		 <a href="plugEdit.php"><img  alt="Lady Gaga" src="images/img4_thumb.jpg"></img></a> 
                                                                         </div>
                                                                         </li>
 																</ul>

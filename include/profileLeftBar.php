@@ -24,50 +24,55 @@
                                 <ul class="accordion"  id="accordion-2">
                                 <div style="border-radius:10px;">
                                 <li class=""><!--Recent activity tab open-->
-                                	<a href="#" style="font-size:16px;">Recent Activity</a>
-                                    <ul style="font-size:12px;">
-                                            <li class="">
-                                            <a href="#" style="border-radius:0px;">Kevin An is now connected to Allister <span class="text_color">Esguerra</span></a>
-                                            <a href="#" style="border-radius:0px;">Kevin An has joined <span class="text_color">internal_grp</span></a>
-                                            <a href="#" style="border-radius:0 0 10px 10px;">Tuan Ma uploaded smalllogo and <span class="text_color">splash-620*300</span> tothre <span class="text_color">internal_grp</span> group.</a>
+                                	<a href="#" class="graphite_heading">Recent Activity</a>
+                                    <ul>
+                                            <li>
+                                            <a href="#" style="border-radius:0px;width:89%;">Kevin An is now connected to Allister <span class="text_color">Esguerra</span></a>
+                                            <a href="#" style="border-radius:0px;width:89%;">Kevin An has joined <span class="text_color">internal_grp</span></a>
+                                            <a href="#" style="border-radius:0 0 10px 10px;width:89%;">Tuan Ma uploaded smalllogo and <span class="text_color">splash-620*300</span> tothre <span class="text_color">internal_grp</span> group.</a>
                                             </li>
 	                                </ul>
                                  </li><!--Recent activity tab closed-->
                                  </div><br>
                                                     
                                 <li><!--Group tab open-->
-                                	<a  href="#" style="font-size:16px;border-radius:10px 10px 0px 0px ;"><span onclick="window.location='yourGroup.php'">Group</span></a>
+                                	<a  href="#" style="font-size:16px;border-radius:10px 10px 0px 0px; width:87%;"><span onclick="window.location='yourGroup.php'">Group</span></a>
                                 
                                 <ul style="" class="sub_menu">
                                 <div class="main_menu">
                                 	   <div class="main_menu_title">
-                                                <div class="main_menu_element"><span class="edit_button group_ok"></span><a href="groupdisplayPlug.php" class="collection_name"><span class="ancher">College Buddies</span></a></div>
-                                                <div class="main_menu_element"><span class="edit_button group_ok"></span><a href="groupdisplayPlug.php" class="collection_name"><span class="ancher">TV Shows</span></a></div>
-                                                <div class="main_menu_element"><span class="edit_button group_ok"></span><a href="groupdisplayPlug.php" class="collection_name"><span class="ancher">Movies</span></a></div>
-                                                <div class="main_menu_element"><span class="edit_button group_ok"></span><a href="groupdisplayPlug.php" class="collection_name"><span class="ancher">Bar</span></a></div>
+                                                <div class="main_menu_element"><span class="lock_button lock_deactive"></span><a href="groupdisplayPlug.php" class="collection_name"><span class="ancher">This is a group name</span></a><span class="edit_button pencil_deactive group_ok"></span></div>
+                                                <div class="main_menu_element"><span class="lock_button lock_deactive"></span><a href="groupdisplayPlug.php" class="collection_name"><span class="ancher">Another normal group</span></a><span class="edit_button pencil_deactive group_ok"></span></div>
+                                                <div class="main_menu_element"><span class="lock_button  lock_active group_ok"></span><a href="groupdisplayPlug.php" class="collection_name"><span class="ancher">A private group</span></a><span class="edit_button pencil_deactive group_ok"></span></div>
+                                                <div class="main_menu_element"><span class="lock_button  lock_deactive"></span><a href="groupdisplayPlug.php" class="collection_name"><span class="ancher">This is a group name</span></a><span class="edit_button pencil_deactive group_ok"></span></div>
+                                                  <div class="main_menu_element"><span class="lock_button  lock_active group_ok"></span><a href="groupdisplayPlug.php" class="collection_name"><span class="ancher">A private group</span></a><span class="edit_button pencil_deactive group_ok"></span></div>
                                        </div>
                                 </div>
                                 </ul>
                                 </li><!--Group tab closed-->
                                 <div id="edit_your_group"><a href="createGroup.php" style=""><div class="edit_img_collection"></div>&nbsp;CREATE GROUP</a></div><br />
                                 <li><!--Collection tab open-->
-                                	<a href="#" style="font-size:16px;border-radius:10px 10px 0 0 ;"><span onclick="window.location='PnsCollectionPage.php'">Collection</span></a>
+                                	<a href="#" style="font-size:16px;border-radius:10px 10px 0 0 ;width:87%;"><span onclick="window.location='PnsCollectionPage.php'">Collection</span></a>
                                 
                                 <ul style="" class="sub_menu">
                                    <div class="main_menu">
                                   
                                    <div class="main_menu_title" onClick="javascript:menu_one(this);">
-                                   		<div class="main_menu_element"><span class="edit_button collection_ok"></span><a href="collectiondisplayPlug.php" class="collection_name"><span class="ancher">My Favorite Site Feedback Discussion</span></a></div>
-                                        <div class="main_menu_element"><span class="edit_button collection_ok"></span><a href="collectiondisplayPlug.php" class="collection_name"><span class="ancher">TV Shows</span></a></div>
-                                        <div class="main_menu_element"><span class="edit_button collection_ok"></span></a><a href="collectiondisplayPlug.php" class="collection_name"><span class="ancher">Movies</span></a></div>
-                                        <div class="main_menu_element"><span class="edit_button collection_ok"></span><a href="collectiondisplayPlug.php" class="collection_name"><span class="ancher">Bar</span></a></div>
+                                   		 <div class="main_menu_element"><span class="lock_button lock_deactive collection_ok"></span><a href="collectiondisplayPlug.php" class="collection_name"><span class="ancher">This is a collection name</span></a><span class="edit_button pencil_deactive collection_ok"></span></div>
+                                                   <div class="main_menu_element"><span class="lock_button  lock_active collection_ok"></span><a href="collectiondisplayPlug.php" class="collection_name"><span class="ancher">A private collection</span></a><span class="edit_button pencil_deactive collection_ok"></span></div>
+                                                <div class="main_menu_element"><span class="lock_button lock_deactive"></span><a href="collectiondisplayPlug.php" class="collection_name"><span class="ancher">Another normal collection</span></a><span class="edit_button pencil_deactive collection_ok"></span></div>
+                                             
+                                                <div class="main_menu_element"><span class="lock_button  lock_deactive"></span><a href="collectiondisplayPlug.php" class="collection_name"><span class="ancher">This is a collection name</span></a><span class="edit_button pencil_deactive collection_ok"></span></div>
+                                                  <div class="main_menu_element"><span class="lock_button  lock_active collection_ok"></span><a href="collectiondisplayPlug.php" class="collection_name"><span class="ancher">A private collection</span></a><span class="edit_button pencil_deactive collection_ok"></span></div>
+                                   
+                                   		
                                         
                                    </div>
                               </div>
                                 </ul>
                                 </li><!--Collection tab closed-->
                                 </div>
-                                <div id="edit_your_collection" ><a href="createCollection.php"   style="position:relative; top:17px !important; margin-top:0px;"><div class="edit_img_collection"></div>&nbsp;CREATE COLLECTION</a></div>
+                                <div id="edit_your_collection" ><a href="createCollection.php"   style="position:relative; top:17px !important; margin-top:0px;"><div class="edit_img_collection"></div>&nbsp;CREATE  COLLECTION</a></div>
                                 
 <script type="text/javascript">
        /////// Confirm Collection  Box script  ////////	
@@ -118,4 +123,15 @@
         });
         
     });
+	
+	/////// active and inactive edit button /////////////////
+	
+    $(document).ready(function(){
+        $('.edit_button').click(function () {
+            $('.edit_button').removeClass('current').addClass('link');
+            $(this).removeClass('pencil_deactive').addClass('pencil_active');
+            var divname= this.name;
+            $("#"+divname).show("fast").siblings().hide("fast");
+        });
+    });	
 </script>

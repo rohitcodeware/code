@@ -1,5 +1,5 @@
 <?php include('include/head_section_other.php'); ?>
-<body>
+<body onload="bodyonloadfun();">
 	<div id="profile_Container"><!--profile_Container_div_Open-->
 	     <div id="profile_content_main" ><!--content_main_Open-->
 	    	<table cellspacing="0"><!--main_table_open-->
@@ -27,12 +27,13 @@
       <script type="text/javascript">
 		$(function () {
 			$("#other_collection_id").selectbox2();
+			$("#more").selectbox2();
 		});
 		
 		</script>
         <script type="application/javascript">
 			   $(function(){
-			   var $container11 = $('#container11');
+			   var $container11 = $('.container11');
 			   $container11.imagesLoaded( function(){
 			   $container11.masonry({
 			   itemSelector : '.connection_profile_main_div'
@@ -92,6 +93,14 @@ function menu_one(caller){
 	//console.log('class changed 2');
 	});
 	});
+	
+	function bodyonloadfun()
+	{
+		$("#Collection2").addClass("matter inactive");
+		$("#Collection3").addClass("matter inactive");
+		$("#Collection4").addClass("matter inactive");
+	
+	}
 </script>
 
 </body>

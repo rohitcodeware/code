@@ -2736,6 +2736,17 @@ top: -3px;}
     position:relative;
 	vertical-align: top;
 }
+.plug_change_password_button{
+	background-image:url(../images/change_password.png);
+	background-repeat:no-repeat;
+	width: 201px;
+	height:40px;
+	border:0px;
+	cursor:pointer;
+	border-radius: 20px;
+    position:relative;
+	vertical-align: top;
+}
 .plug_signin_button{
 	background-image:url(../images/signin.png);
 	background-repeat:no-repeat;

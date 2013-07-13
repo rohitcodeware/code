@@ -38,8 +38,23 @@
 										<td class="td2_width"><input type="text" name="" class="text"  value="Member you want to add to group" onClick="if(this.value=='Member you want to add to group'){this.value=''}" onBlur="if(this.value==''){this.value='Member you want to add to group'}"style="color:#999;"/></td>
 									</tr>
                                       <tr>
-										<td class="td1_width"><label>Group Type :</label></td>
+										<td class="td1_width"><label>Group Privacy:</label></td>
 										<td class="td2_width"><input type="radio" id="radio-1-3" name="" class="regular-radio"  /><label for="radio-1-3"></label><label for="radio-1-3" style="vertical-align:top; font-weight:normal;">&nbsp;Private&nbsp;</label>&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" id="radio-1-4" name="" class="regular-radio"  /><label for="radio-1-4"></label><label for="radio-1-4" style="vertical-align:top; font-weight:normal;">&nbsp;Public&nbsp;</label></td>
+									</tr>
+                                   <tr>
+										<td class="td1_width"><label>Group Type:</label></td>
+										<td class="td2_width">
+                                         <select name="group_type" id="Collection_id" tabindex="1">
+													<option value="">Select Group Type</option>
+                                                    <option value="">Close family</option>
+													<option value="">Distance family</option>
+													<option value="">Close friend</option>
+                                                    <option value="">Longtime friend</option>
+													<option value="">Cool friend</option>
+                                                    <option value="">Colleague</option>
+													<option value="">Co-worker</option>
+                                                    <option value="">Neighbor</option>
+										 </select></td>
 									</tr>
 									</table><!--plugger_profile_form_table_closed-->
 							</table><!--profile_form_table_closed-->	
@@ -66,34 +81,6 @@
 	$(function () {
 			$("#Collection_id").selectbox();
 	});
-	$(document).ready(function(){
-	
-	$('.delete').click(function(){
-		
-		var elem = $(this).closest('.item');
-		
-		$.confirm({
-			'title'		: 'Are you sure about deleting?',
-			'message'	: '',
-			'buttons'	: {
-				'Yes'	: {
-					'class'	: 'blue',
-					'action': function(){
-						
-					}
-				},
-				'No'	: {
-					'class'	: 'gray',
-					'action': function(){}	// Nothing to do in this case. You can as well omit the action property.
-				}
-			}
-		});
-		
-	});
-	
-});
 </script>
-<script src="js/jquery.confirm.js"></script>
-<link rel="stylesheet" type="text/css" href="css/jquery.confirm.css" />
 </body>
 </html>
