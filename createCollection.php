@@ -75,6 +75,20 @@
 										<td class="td1_width"><label>Groups	 :</label></td>
 										<td class="td2_width"><input type="text" name="" class="text"/></td>
 									</tr>
+ <tr>
+										<td class="td1_width"><label>Collection Type :</label></td>
+										<td class="td2_width">
+											<select name="collection_type" id="Collection_type" tabindex="1">
+													<option value="">Select Collection Type</option>
+													<option value="">Class Project</option>
+													<option value="">Secret Recipe </option>
+                                                                                                        <option value="">Kids album & Awards</option>
+													<option value="">Favorite Restaurant </option>
+                                                                                                        <option value="">Favorite Vacation Spot</option>
+													<option value="">Love Letter</option>
+											</select>
+										</td>
+									</tr>
 									
 									</table><!--plugger_profile_form_table_closed-->
 							</table><!--profile_form_table_closed-->	
@@ -97,6 +111,7 @@ $(function () {
 	$("#Collection_id").selectbox();
 	$("#contentView_id").selectbox();
 	$("#collection_share_type").selectbox();
+        $("#Collection_type").selectbox();
 });
 </script>
 </body>
